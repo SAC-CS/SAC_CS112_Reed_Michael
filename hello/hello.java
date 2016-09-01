@@ -7,3 +7,5 @@ public class hello
 	}
 	
 }
+
+// Good job!
